@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="gcoddev" height="30" width="40" />
   </a>
-  <a href="https://fb.com/gcoddev" target="_blank">
+  <a href="https://facebook.com/gcoddev" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="gcoddev" height="30" width="40" />
@@ -39,7 +39,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="gcoddev" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/gcoddev" target="_blank">
+  <a href="https://www.youtube.com/@gcoddev" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="gcoddev" height="30" width="40" />
